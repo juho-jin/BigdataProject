@@ -1,5 +1,5 @@
 # BigdataProject
-## DBTable
+## DFTable
 ### 1.Log Data - 파싱한 원본데이터
 #### 1-1.Log Data Satting - 원본데이터 로드 및 세팅
 #### 1-2.Log Data Visual Analysis - 로그 데이터 시각적 분석
